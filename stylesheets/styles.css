@@ -1,1 +1,3 @@
-/* Put your CSS here */
+form :focus:required:invalid {
+    border-color: #a94442;
+}
